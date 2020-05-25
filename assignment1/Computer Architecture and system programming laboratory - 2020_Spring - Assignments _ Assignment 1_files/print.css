@@ -1,0 +1,5 @@
+/* Print stylesheet */
+
+#header, #footer, #left-sidebar, #navigate-bar, .actions, .toc, .edit-section, .rss-panel, .no-print { display: none; }
+
+#center-container{ margin-left: 0px !important; }
